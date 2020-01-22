@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4f32fb2c-7719-497b-8d2e-cfea67d7c24e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1UdPSbUjJqHUJWgMWhRGsEhJqgF" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="show.unlinked.gradle.project.popup" value="true" />
+  </component>
+  <component name="RunManager" selected="Gradle.TrieTest">
+    <configuration name="Driver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.isu.cs2235.Driver" />
+      <module name="pa04.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.isu.cs2235.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TrieTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;edu.isu.cs2235.TrieTest&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.TrieTest" />
+        <item itemvalue="Application.Driver" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4f32fb2c-7719-497b-8d2e-cfea67d7c24e" name="Default Changelist" comment="" />
+      <created>1575683499535</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575683499535</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1108" y="58" width="640" height="884" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1575683701909">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1108" y="58" width="640" height="884" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1575683701909" />
+    <state width="903" height="268" key="GridCell.Tab.0.bottom" timestamp="1575694115774">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="903" height="268" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1575694115774" />
+    <state width="903" height="268" key="GridCell.Tab.0.center" timestamp="1575694115773">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="903" height="268" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1575694115773" />
+    <state width="903" height="268" key="GridCell.Tab.0.left" timestamp="1575694115773">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="903" height="268" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1575694115773" />
+    <state width="903" height="268" key="GridCell.Tab.0.right" timestamp="1575694115774">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="903" height="268" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1575694115774" />
+    <state width="1878" height="368" key="GridCell.Tab.1.bottom" timestamp="1575694113973">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="368" key="GridCell.Tab.1.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1575694113973" />
+    <state width="1878" height="368" key="GridCell.Tab.1.center" timestamp="1575694113972">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="368" key="GridCell.Tab.1.center/0.0.1920.1080@0.0.1920.1080" timestamp="1575694113972" />
+    <state width="1878" height="368" key="GridCell.Tab.1.left" timestamp="1575694113972">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="368" key="GridCell.Tab.1.left/0.0.1920.1080@0.0.1920.1080" timestamp="1575694113972" />
+    <state width="1878" height="368" key="GridCell.Tab.1.right" timestamp="1575694113973">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="368" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1575694113973" />
+    <state x="392" y="151" width="1125" height="742" key="new project wizard" timestamp="1579328975874">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="392" y="151" width="1125" height="742" key="new project wizard/0.0.1920.1080@0.0.1920.1080" timestamp="1579328975874" />
+  </component>
+</project>
